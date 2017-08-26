@@ -1,0 +1,25 @@
+Amid raging debate over Net Neutrality, mobile operators said if they are not offered a level playing field with Net-based services such as Skype and WhatApp then their businesses would be viable only by raising data prices by up to six times.
+
+Such high rates, they said, would become unaffordable for a large number of people, denying them access to the Internet.
+
+Pitching for same regulation for all communication services, GSM mobile industry body COAI said operators are required to ensure a level of service quality, share revenue with the government and intercept communication for preventing any terrorist act, but these rules are not applicable on Internet-based messaging and calling applications.
+
+“If same rules are not to apply, then the only way this industry can be viable is data rate will be 6x from where they are there today. After that, you can do what you want. But if you take data rate to 5x or 6x, a lot of people in India will never be able to access the Internet,” COAI Vice-Chairman and Bharti Airtel India Managing Director Gopal Vittal said.
+
+The Cellular Operators Association of India (COAI) used the slogan ‘Sabka Internet, Sabka Vikas’ — similar to that used by ruling BJP at the time of general elections to put its message across.
+
+The industry body has sent its comments to telecom regulator TRAI on its consultation paper over Net Neutrality and over-the-top (OTT) players like Skype, GTalk, Snapchat and WhatsApp.
+
+Vittal said telecom operators want same set of rules to apply on same kinds of services.
+
+The Net Neutrality debate picked up in India after Airtel in December announced plans to charge separately for VoIP calls, made by using Internet connections.
+
+“OTT gives us business. We as industry love OTT. Only we are saying that same rules should be applied on same communication service. If rules are same, frankly technology doesn’t matter,” Vittal said.
+
+The issue flared up later after Airtel launched a zero rating plan that provides consumers free access to mobile applications that join it by paying a certain amount to Airtel. The Telecom Regulatory Authority of India floated the consultation paper on the issue, leading to even more heated arguments over the issue, with a million people posting their support for Net Neutrality and to ‘keep Internet free’.
+
+However, Idea Cellular Managing Director Himanshu Kapania said there is no linkage between a zero rating plan and Net Neutrality and it is allowed in parts of world that have adopted Net Neutrality legislation.
+
+“If there is arbitrage, then about Rs 5 lakh crore investment the telecom sector wants to jointly make in connecting masses will be jeopardised,” Kapania added.
+
+He said telecom operators make 99 per cent of investment in networks that connect over-the-top players or Internet- based messaging and calling applications.
